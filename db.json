@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "ddd",
+      "lastName": "Menzli",
+      "email": "menzli@yahoo.fr",
+      "phone": "0610843048",
+      "salary": "100.00"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
